@@ -4,7 +4,7 @@ import Titulo from "./components/Titulo";
 function App() {
   return (
     <>
-      <Titulo></Titulo>
+      <Titulo mensajeNuevo="My friend"></Titulo>
     </>
   );
 }
